@@ -1,0 +1,4 @@
+cat: invalid option -- 'a'
+Try 'cat --help' for more information.
+에러 메세지를 text 파일로 저장하기
+cat >> error.txt
