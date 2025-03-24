@@ -1,4 +1,3 @@
-리눅스를 공부하고 있는데
-가상 환경이 너무 에러��로딩이 심하고 오래걸려서 짜�증난다..
-그래서 윈도우 서브시스템 리눅�스를 사용하고 있는데
-일부기능이 �부족한가..
+i'm studying Linux, but the virtualBox virtual machine enviroment is too laggy and takes too long on my personal laptop...so i'm using WSL2 for nowㅠㅠ i want to use Oracle Virtual boxㅠㅠ
+
+
