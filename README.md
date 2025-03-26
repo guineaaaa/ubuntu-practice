@@ -1,4 +1,1 @@
-Ubuntu Playground
-
-C
-s
+Ubuntu-based System Programming Playground
