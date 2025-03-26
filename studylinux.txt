@@ -1,3 +1,0 @@
-i'm studying Linux, but the virtualBox virtual machine enviroment is too laggy and takes too long on my personal laptop...so i'm using WSL2 for nowㅠㅠ i want to use Oracle Virtual boxㅠㅠ
-
-
