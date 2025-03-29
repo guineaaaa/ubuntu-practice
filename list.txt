@@ -1,7 +1,0 @@
-hello.txt
-hello2.txt
-linuxpractice.txt
-list.txt
-myfolder
-output.txt
-studylinux.txt
