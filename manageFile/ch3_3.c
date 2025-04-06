@@ -12,19 +12,15 @@ int main(){
 
 	kind=statbuf.st_mode & S_IFMT;
 
-	printf("Kind=%o\n", kind);
-
 	switch(kind){
 		case S_IFLNK:
-		printf("linux.txt: Symbolic link\n");
-		break;
-
+			printf("linux.txt: Symbolic link");
+			break;
 		case S_IFDIR:
-		printf("linux.txt: Directory\n");
-		break;
-
+			printf("linux.txt: Directory");
+			break;
 		case S_IFREG:
-		printf("linux.txt: Regurlar file\n");
-		break;
+			printf("linux.txt: Regular File");
+			break;
 	}
 }
